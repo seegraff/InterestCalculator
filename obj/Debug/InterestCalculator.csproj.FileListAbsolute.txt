@@ -1,0 +1,8 @@
+c:\users\developer\documents\visual studio 2013\Projects\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+c:\users\developer\documents\visual studio 2013\Projects\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2013\Projects\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+c:\users\developer\documents\visual studio 2013\Projects\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+c:\users\developer\documents\visual studio 2013\Projects\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
+c:\users\developer\documents\visual studio 2013\Projects\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb
+c:\Users\developer\Documents\Visual Studio 2013\Projects\InterestCalculator\InterestCalculator\bin\Debug\nunit.framework.dll
+c:\Users\developer\Documents\Visual Studio 2013\Projects\InterestCalculator\InterestCalculator\bin\Debug\nunit.framework.xml
